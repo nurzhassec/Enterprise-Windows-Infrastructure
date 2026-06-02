@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" width="100%" alt="Enterprise Windows Infrastructure Lab">
+  <img src="./banner.png" width="100%" alt="Enterprise Windows Infrastructure Lab">
 </p>
 
 <br>
